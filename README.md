@@ -5,7 +5,7 @@ I'm a 17-year-old Python developer with a passion for creating simple, yet impac
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brynley-phillips-1524a525a/) 
 
-# 💻 Tech Stack:
+# 💻 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bryndeeny&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
