@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 17-year-old Python developer with a passion for creating simple, yet impactful solutions.<br>With a focus on small projects, I strive to make the most out of every line of code I write. <br>My goal is to create elegant, efficient, and effective applications that solve real-world problems. <br>I believe that age is just a number, and I am eager to prove that I have what it takes to stand out in the tech industry. <br>Whether it's working on personal projects or collaborating with others, I'm always up for a challenge
+I'm a 17-year-old Python developer with a passion for creating simple, yet impactful solutions.<br>With a focus on small projects, I strive to make the most out of every line of code I write. <br>My goal is to create elegant, efficient, and effective applications that solve real-world problems. <br>I believe that age is just a number, and I am eager to prove that I have what it takes to stand out in the tech industry. <br>Whether it's working on personal projects or collaborating with others, I'm always up for a challenge.
 
 
 ## 🌐 Socials:
