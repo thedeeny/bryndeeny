@@ -2,8 +2,7 @@
 I'm a 17-year-old Python developer with a passion for creating simple, yet impactful solutions.<br>With a focus on small projects, I strive to make the most out of every line of code I write. <br>My goal is to create elegant, efficient, and effective applications that solve real-world problems. <br>I believe that age is just a number, and I am eager to prove that I have what it takes to stand out in the tech industry. <br>Whether it's working on personal projects or collaborating with others, I'm always up for a challenge.
 
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brynley-phillips-1524a525a/) 
+
 
 # 💻 Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
