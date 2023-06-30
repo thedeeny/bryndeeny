@@ -12,9 +12,8 @@ I'm a 17-year-old developer with a passion for creating simple, yet impactful so
 
 ## Skills and Expertise
 
-- Programming languages: [List your programming languages]
-- Frameworks and libraries: [List relevant frameworks and libraries]
-- Tools and technologies: [List relevant tools and technologies]
+- Programming languages: [PYTHON, PHP, HTML, CSS, JS]
+- Tools and technologies: [PC BUILDING, ETHICAL HACKING]
 
 ## Projects
 
@@ -28,8 +27,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Contact Me
 
-- 📫 You can reach me via email at [your-email@example.com].
-- 🌐 Connect with me on [LinkedIn](link) to stay updated on my latest projects and activities.
+- 📫 You can reach me via email at [brynley.bp@gmail.ocm].
 
 I'm excited about the possibilities that lie ahead, and I'm looking forward to connecting with like-minded developers and collaborating on innovative projects. Let's make an impact together!
 
