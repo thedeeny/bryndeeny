@@ -27,7 +27,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## Contact Me
 
-- 📫 You can reach me via email at [brynley.bp@gmail.ocm].
+- 📫 You can reach me via email at [brynley.bp@gmail.com].
 
 I'm excited about the possibilities that lie ahead, and I'm looking forward to connecting with like-minded developers and collaborating on innovative projects. Let's make an impact together!
 
